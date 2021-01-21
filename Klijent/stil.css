@@ -1,0 +1,50 @@
+.osnova{
+    border: solid black 1px;
+    display: flex;
+    background-color: lightskyblue;
+}
+.unosKorisnika{
+    border: solid black 1px;
+    display: flex;
+    flex-direction: column;
+}
+.unosKredita{
+    border: solid black 1px;
+    display: flex;
+    flex-direction: column;
+}
+.formaUnosa{
+    display: flex;
+    flex-direction: column;
+}
+.otplataKredita{
+    border: solid black 1px;
+    display: flex;
+    flex-direction: column;
+}
+.nosacKredita{
+    display: flex;
+    flex-direction: column;
+    border: solid black 1px;
+    flex: 1 0 100px ;
+}
+.kredit{
+    border: solid black 1px;
+    text-align: center;
+    background-color:lightslategrey;
+    flex: 1 0 30px;
+    margin: 5px;
+}
+.zaglavlje{
+    text-align: center;
+    font-weight:bolder;
+    font-style: italic;
+}
+.platforma{
+    display: flex;
+    flex-direction: column;
+    flex: 1 0 500px;
+}
+button{
+    background-color:mediumpurple
+}
